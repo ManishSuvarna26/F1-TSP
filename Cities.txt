@@ -1,22 +1,22 @@
-Bahrain - Sakhir
-Italy - Imola
-Portugal - Portimão
-Spain - Barcelona
-Monaco - Monte Carlo
-Azerbaijan - Baku
-France - Le Castellet
-Austria - Spielberg
-Great Britain - Silverstone
-Hungary - Budapest
-Belgium - Spa-Francorchamps
-Netherlands - Zandvoort
-Italy - Monza
-Russia - Sochi
-Singapore - Marina Bay
-Japan - Suzuka
-United States - Austin
-Mexico - Mexico City
-Brazil - São Paulo
-Australia - Melbourne
-Saudi Arabia - Jeddah
-Abu Dhabi - Yas Island
+Bahrain - Sakhir: 26.0320° N, 50.5139° E
+Italy - Imola: 44.3439° N, 11.7167° E
+Portugal - Portimão: 37.2374° N, 8.6721° W
+Spain - Barcelona: 41.5666° N, 2.2626° E
+Monaco - Monte Carlo: 43.7384° N, 7.4246° E
+Azerbaijan - Baku: 40.4093° N, 49.8671° E
+France - Le Castellet: 43.2506° N, 5.7912° E
+Austria - Spielberg: 47.2197° N, 14.7647° E
+Great Britain - Silverstone: 52.0775° N, 1.0164° W
+Hungary - Budapest: 47.4925° N, 19.0514° E
+Belgium - Spa-Francorchamps: 50.4372° N, 5.9719° E
+Netherlands - Zandvoort: 52.3864° N, 4.5473° E
+Italy - Monza: 45.6208° N, 9.2900° E
+Russia - Sochi: 43.4084° N, 39.9597° E
+Singapore - Marina Bay: 1.2914° N, 103.8639° E
+Japan - Suzuka: 34.8450° N, 136.5417° E
+United States - Austin: 30.1328° N, 97.6412° W
+Mexico - Mexico City: 19.4049° N, 99.1752° W
+Brazil - São Paulo: 23.7000° S, 46.7000° W
+Australia - Melbourne: 37.8136° S, 144.9631° E
+Saudi Arabia - Jeddah: 21.5725° N, 39.1731° E
+Abu Dhabi - Yas Island: 24.4949° N, 54.6040° E
